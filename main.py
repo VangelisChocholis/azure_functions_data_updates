@@ -15,7 +15,6 @@ database = "SpotifyRockDB"
 
 # load credentials
 load_dotenv()
-username = os.getenv("username")
 password = os.getenv("password")
 
 
